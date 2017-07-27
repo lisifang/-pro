@@ -6,7 +6,7 @@
 <script>
   export default{
     data () {
-      return { msg:'hello'}
+      return { msg:'第二次打包上传 hello lsf github'}
     },
     methods:{},
     components:{},
